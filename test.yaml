@@ -1,0 +1,12 @@
+---
+# YAML allows comments, super useful!
+ACCTN:
+  paid: 60
+  due: 100
+ACCTN:
+  paid: 70
+  due: 60
+ACCTN:
+  paid: 0
+  due: 0
+...

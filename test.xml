@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <ACCTN extra="fun">
+    <paid>600</paid>
+    <due>10000</due>
+  </ACCTN>
+  <ACCTN>
+    <paid>70</paid>
+    <due>40</due>
+  </ACCTN>
+  <ACCTN>
+    <paid>0</paid>
+    <due>0</due>
+  </ACCTN>
+</root>
